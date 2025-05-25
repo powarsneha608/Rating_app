@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fullstack Rating App
 
 ## How to Run
@@ -61,3 +62,6 @@
 ### 3. Add a README File
 
 - In `c:\Users\LENOVO\fullstack-rating-app`, create a file named `README.md` with these instructions:
+=======
+# Rating_app
+>>>>>>> 208689a514c4715246e08dede8444ca85b23f189
